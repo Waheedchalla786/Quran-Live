@@ -30,10 +30,10 @@ This project aims to provide a live broadcast of the Quran Kareem, along with fe
 ## Social Media
 
 Connect with me on social media platforms:
-- **Instagram**: [@Waheedchalla](https://www.instagram.com/waheedchalla)
-- **Telegram**: [@itzfew](https://t.me/itzfew)
-- **Twitter**: [@Waheedchalla](https://twitter.com/waheedchalla)
-- **Facebook**: [@Muslims.21th](https://www.facebook.com/Muslims.21th)
+- **Instagram**: <i class="fab fa-instagram"></i> [@Waheedchalla](https://www.instagram.com/waheedchalla)
+- **Telegram**: <i class="fab fa-telegram"></i> [@itzfew](https://t.me/itzfew)
+- **Twitter**: <i class="fab fa-twitter"></i> [@Waheedchalla](https://twitter.com/waheedchalla)
+- **Facebook**: <i class="fab fa-facebook"></i> [@Muslims.21th](https://www.facebook.com/Muslims.21th)
 
 ## Contact
 
