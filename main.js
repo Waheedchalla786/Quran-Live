@@ -58,7 +58,7 @@ let track_list = [
 
     image: "Image URL",
 
-    path: "Enthusiast.mp3"
+    path: "hhsd.mp3"
 
   },
 
@@ -70,7 +70,7 @@ let track_list = [
 
     image: "Image URL",
 
-    path: "Shipping_Lanes.mp3",
+    path: "https://Qurango.net/radio/yasser_aldosari",
 
   },
 ];
