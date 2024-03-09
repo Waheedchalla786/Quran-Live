@@ -19,7 +19,7 @@ This project aims to provide a live broadcast of the Quran Kareem, along with fe
 ﴿5﴾ اِهْدِنَا الصِّرَاطَ الْمُسْتَقِیْمَۙ 
 ﴿6﴾ صِرَاطَ الَّذِیْنَ اَنْعَمْتَ عَلَیْهِمْ١ۙ۬ۦ غَیْرِ الْمَغْضُوْبِ عَلَیْهِمْ وَ لَا الضَّآلِّیْنَ۠   ۧ ۧ ﴿7ع الفاتحة 1﴾
 
-**Urdu Translation:**
+**Translation:**
  1 ) Praise be to God, Lord of the worlds ﴿ 
  2 ) The Most Gracious , the Most Merciful ﴿ 
  3 ) Your kingdom. Of religion ﴿
@@ -30,10 +30,10 @@ This project aims to provide a live broadcast of the Quran Kareem, along with fe
 ## Social Media
 
 Connect with me on social media platforms:
-- **Instagram**: <i class="fab fa-instagram"></i> [@Waheedchalla](https://www.instagram.com/waheedchalla)
-- **Telegram**: <i class="fab fa-telegram"></i> [@itzfew](https://t.me/itzfew)
-- **Twitter**: <i class="fab fa-twitter"></i> [@Waheedchalla](https://twitter.com/waheedchalla)
-- **Facebook**: <i class="fab fa-facebook"></i> [@Muslims.21th](https://www.facebook.com/Muslims.21th)
+- **Instagram**: [@Waheedchalla](https://www.instagram.com/waheedchalla)
+- **Telegram**: [@itzfew](https://t.me/itzfew)
+- **Twitter**: [@Waheedchalla](https://twitter.com/waheedchalla)
+- **Facebook**: [@Muslims.21th](https://www.facebook.com/Muslims.21th)
 
 ## Contact
 
