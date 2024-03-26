@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Virtual Keyboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <input type="text" id="inputField" readonly>
+  <div class="keyboard">
+    <div class="row">
+      <button onclick="insertCharacter('ا')">ا</button>
+      <button onclick="insertCharacter('ب')">ب</button>
+      <!-- Add more Arabic/Kashmiri alphabets here -->
+    </div>
+    <!-- Add more rows and buttons for other alphabets -->
+    <div class="row">
+      <button onclick="insertCharacter('َ')">َ</button>
+      <button onclick="insertCharacter('ِ')">ِ</button>
+      <button onclick="insertCharacter('ُ')">ُ</button>
+      <!-- Add more diacritic buttons -->
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
