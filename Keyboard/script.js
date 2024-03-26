@@ -8,7 +8,7 @@ function insertCharacter(character) {
     currentText[lastIndex] === 'َ' ||
     currentText[lastIndex] === 'ِ' ||
     currentText[lastIndex] === 'ُ'
-  );
+  ); 
 
   // If the last character is a base character, insert the diacritic after it
   if (isBaseCharacter) {
