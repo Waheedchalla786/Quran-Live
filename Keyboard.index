@@ -22,6 +22,7 @@
       <!-- Add more diacritic buttons -->
     </div>
   </div>
+  <button onclick="copyText()" class="copy-button">Copy</button>
   <script src="script.js"></script>
 </body>
 </html>
