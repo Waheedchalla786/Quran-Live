@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<head> 
+<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Virtual Keyboard</title>
-  <link rel="stylesheet" href="Keyboard/styles.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <input type="text" id="inputField" readonly>
   <div class="keyboard">
     <div class="row">
       <button onclick="insertCharacter('ا')">ا</button>
@@ -16,13 +15,24 @@
     </div>
     <!-- Add more rows and buttons for other alphabets -->
     <div class="row">
-      <button onclick="insertCharacter('َ')">َ</button>
-      <button onclick="insertCharacter('ِ')">ِ</button>
-      <button onclick="insertCharacter('ُ')">ُ</button>
+      <button onclick="insertDiacritic('َ')">َ</button>
+      <button onclick="insertDiacritic('ِ')">ِ</button>
+      <button onclick="insertDiacritic('ُ')">ُ</button>
       <!-- Add more diacritic buttons -->
     </div>
+    <div class="row">
+      <button onclick="removeLastLetter()">Remove Last Letter</button>
+      <button onclick="removeAllLetters()">Remove All</button>
+    </div>
+    <div class="row">
+      <button onclick="moveCursorLeft()">Left</button>
+      <button onclick="moveCursorRight()">Right</button>
+    </div>
+    <div class="row">
+      <button onclick="insertSpace()">Space</button>
+    </div>
   </div>
-  <button onclick="copyText()" class="copy-button">Copy</button>
-  <script src="Keyboard/script.js"></script>
+  <textarea id="inputField" rows="5" cols="50"></textarea>
+  <script src="script.js"></script>
 </body>
 </html>
