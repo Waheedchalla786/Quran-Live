@@ -19,3 +19,9 @@ function insertCharacter(character) {
     inputField.value = combinedCharacter;
   }
 }
+function copyText() {
+  const inputField = document.getElementById('inputField');
+  inputField.select();
+  document.execCommand('copy');
+  alert('Text copied to clipboard!');
+}
